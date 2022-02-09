@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Tetris.Location">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQACAAAgABAAAAAACEAAAAA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Tetrominoe">
+    <Position X="7" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACALAQAAIAAANEIAAAEAAEAgAoAABACEAAAAg=</HashCode>
+      <FileName>Tetrominoe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Grid">
+    <Position X="0.5" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAAAAAAEAAAEAYAAAABAAAAAQAAQAAACAQAAAA=</HashCode>
+      <FileName>Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.InputPlayer">
+    <Position X="4" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tetris.Hud">
+    <Position X="4.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAgAAAIAAAAAIIKAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hud.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Tetris.Shape">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAAABAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Tetris.ShapeTypes">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACyFAAE=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
